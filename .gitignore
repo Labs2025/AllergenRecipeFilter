@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+
+# Environment variable files (credentials, API keys)
+.env
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# IDE configuration directories (e.g., PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
